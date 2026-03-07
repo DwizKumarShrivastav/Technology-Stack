@@ -1,6 +1,6 @@
 # 💎 Jewelry Product Analysis System
 
-A complete **Machine Learning and NLP-based system** to analyze, predict, and recommend jewelry products.  
+A complete **Machine Learning and NLP-based system** to analyze, predict, and recommend jewellery products.  
 This project demonstrates the use of **data science, deep learning, and natural language processing (NLP)** techniques on jewelry datasets.
 
 ---
